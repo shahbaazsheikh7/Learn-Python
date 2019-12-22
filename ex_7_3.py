@@ -5,8 +5,8 @@ except:
     if fname == "na na boo boo":
         print("NA NA BOO BOO TO YOU - You've been punk'd!")
         quit()
-    elif fname=="gandu":
-        print("TU GANDU SAALE!! CHAL NIKAL!!")
+    elif fname=="nothing":
+        print("you just can't enter nothing!!")
         quit()
     else:
         print("File cannot be opened:",fname)
